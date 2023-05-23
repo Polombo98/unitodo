@@ -1,0 +1,10 @@
+#root header {
+  height: var(--header-and-footer-height);
+  background-color: var(--main-bg-color);
+  padding: 40px;
+  width: 100%;
+  border-bottom: var(--border-main-size) solid var(--border-main-color);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

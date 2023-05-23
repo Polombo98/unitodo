@@ -1,0 +1,8 @@
+.sidebar {
+  padding: 40px;
+  background-color: var(--main-bg-color);
+  width: 245px;
+  border-right: var(--border-main-size) solid var(--border-main-color);
+  height: 70vh;
+  overflow: auto;
+}

@@ -1,0 +1,13 @@
+#root footer {
+  height: var(--header-and-footer-height);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: var(--main-bg-color);
+  padding: 0 40px;
+  border-top: var(--border-main-size) solid var(--border-main-color);
+}
+
+#root footer aside {
+  max-width: 260px;
+}
